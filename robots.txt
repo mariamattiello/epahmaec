@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eequapaep.e-bileterka.pl/sitemap.xml
